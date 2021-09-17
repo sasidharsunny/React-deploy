@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-            <h1>this is react deployement code by sasi<h1>
         </p>
+        <h1>This sasidhar React Deployment</h1>
         <a
           className="App-link"
           href="https://reactjs.org"
